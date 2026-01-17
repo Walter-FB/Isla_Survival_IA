@@ -2,6 +2,8 @@ DeepSeek Survival — Juego de Rol Multiagente con LLMs
 
 Este proyecto es una simulación de juego de rol con 3 agentes IA en una isla desierta. Cada personaje utiliza deepseek: 7B, estos mismos tiene una personalidad definida y responde a eventos precondicionados por su personalidad predefinida. Un narrador IA interpreta sus decisiones y genera una historia continua, creando nuevos desafíos cada ronda.
 Tambien tiene cada respuesta su contador de tokens, este proyecto tenia la finalidad de explorar el potencial de las ia comunicandose entre si, quedo un proyecto medio raro pero divertido
+
+Este proyecto me permitió profundizar en la orquestación de modelos de lenguaje, el diseño de prompts estructurados para mantener la consistencia de los personajes y la gestión de recursos de hardware. Actualmente, el proyecto se encuentra suspendido debido a las altas exigencias de VRAM que requiere la inferencia simultánea de múltiples agentes y actualmente no cuento con el hardware."
 ---
 
 ## 👥 Personajes
